@@ -1,0 +1,10 @@
+CRITICAL - 31-01-2025 14:44:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "contact,"","2025-01-20 01:28","Ready message successfully sent","http:"
+[Method: GET, Route: contact,%22%22,%222025-01-20%2001:28%22,%22Ready%20message%20successfully%20sent%22,%22http:/zoejustitia.com/contact%22,%22%22,%22%22,%22%22,%22https:/www.instagram.com/zoejustitia_lawfirm%22,%22%22,%22%22,%22%22]
+in SYSTEMPATH/Router/Router.php on line 736.
+ 1 SYSTEMPATH/Router/Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
