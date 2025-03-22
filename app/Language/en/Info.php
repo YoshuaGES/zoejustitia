@@ -157,7 +157,7 @@ return [
         'latest-blog' => 'Latest Blog',
         'contact-us' => 'Contact Us'
     ],
-    'footer' => [
+    'footer' => [ 
         'get-in-touch' => 'Get In Touch',
         'quick-links' => 'Quick Links',
         'address' => 'Jl.  Cempaka Putih Barat XVI/2A ',
@@ -190,88 +190,105 @@ return [
         'read-more' => 'Read More',
     ],
     'blog_1' => [
-        'title' => 'Penerapan Prinsip Business Judgment Rule Terhadap Pertanggungjawaban Direksi Atas Kerugian Perusahaan.',
+        'title' => 'Penerapan Prinsip Business Judgment Rule Terhadap Pertanggungjawaban Direksi Atas Kerugian Perusahaan',
         'category' => 'Business Judgment Rule',
         'summary' => "Lawyer Pada Kantor Zoe Justitia law Firm. Lawyer dan Pembela Umum Pada LBH Inikris Justitia Jakarta. Edu law Canter Zoe Justitia Law CEO Media Cek Hukum.",
         'author' => 'Adv. Elia Fransisco Silitonga, S.H., M.H.',
         'date' => 'Maret, 2025',
         'content-1' => 
-        "Business Judgment Rule merupakan suatu Prinsip/Doktrin Hukum Perseroan yang mengajarkan bahwa suatu keputusan Direksi mengenai aktivitas perseroan tidak boleh digugat oleh siapapun, meskipun putusan tersebut di kemudian hari tidak di kemudian hari tidak bermanfaat bagi Perusahan, sepanjang putusan itu memenuhi syarat sebagai berikut:
-            1. Putusan sesuai hukum yang berlaku;
-            2. Dilakukan dengan itikad baik;
-            3. Dilakukan dengan tujuan yang benar (proper purpose);
-            4. Putusan tersebut mempunyai dasar-dasar yang rasional (rational basis);
-            5. Dilakukan dengan kehati-hatian (duty Of care) seperti dilakukan oleh orang yang cukup hati-hati pada posisi yang serupa;
-            6. Dilakukan dengan cara yang secara layak dipercayakan (reasonable belief) sebagai yang terbaik (best interest) bagi perusahaan.",
+        "<b>Business Judgment Rule</b> merupakan suatu Prinsip/Doktrin Hukum Perseroan yang mengajarkan bahwa suatu keputusan Direksi mengenai aktivitas perseroan tidak boleh digugat oleh siapapun, meskipun putusan tersebut di kemudian hari tidak di kemudian hari tidak bermanfaat bagi Perusahan, sepanjang putusan itu memenuhi syarat sebagai berikut:
+        <ol>
+            <li>Putusan sesuai hukum yang berlaku;</li>
+            <li>Dilakukan dengan itikad baik;</li>
+            <li>Dilakukan dengan tujuan yang benar (<i>proper purpose</i>);</li>
+            <li>Putusan tersebut mempunyai dasar-dasar yang rasional (<i>rational basis</i>);</li>
+            <li>Dilakukan dengan kehati-hatian (<i>duty Of care</i>) seperti dilakukan oleh orang yang cukup hati-hati pada posisi yang serupa;</li>
+            <li>Dilakukan dengan cara yang secara layak dipercayakan (<i>reasonable belief</i>) sebagai yang terbaik (<i>best interest</i>) bagi perusahaan.</li>
+        </ol>",
         'content-2' =>
-        "Selanjutnya kehadiran dan penerapan Prinsip Business Judgment Rule memberikan pemahaman bahwa Direksi/Pimpinan Perusahan adalah para ahli bisnis yang memiliki pemahaman, pengetahuan dan pengalaman terbaik di bidang bisnis perusahan, dan bahwa meskipun kerugian diakibatkan oleh keputusan Direksi, keputusan Direksi
+        "Selanjutnya kehadiran dan penerapan Prinsip <b>Business Judgment Rule</b> memberikan pemahaman bahwa Direksi/Pimpinan Perusahan adalah para ahli bisnis yang memiliki pemahaman, pengetahuan dan pengalaman terbaik di bidang bisnis perusahan, dan bahwa meskipun kerugian diakibatkan oleh keputusan Direksi, keputusan Direksi
         tersebut merupakan keputusan terbaik yang dapat dibuat bagi perusahaan, terkhusus mengenai keputusan yang kompleks dan memerlukan penanganan dan penyelesaian yang cepat. Atas hal tersebut semua pihak seharusnya dapat menganalisis dan mendalami setiap kebijakan dan Keputusan Direksi termasuk pengadilan.",
         'content-3' =>
-        "Penerapan Business Judgment Rule dapat diterapkan kepada Direksi agar terhindar dari ancaman bertanggung jawab maka setiap keputusan harus memenuhi unsur-unsur, meliputi:
-            1. Suatu Putusan harus dibuat. Jika, misalnya, Direksi lalai dengan tidak melakukan
+        "Penerapan <b>Business Judgment Rule</b> dapat diterapkan kepada Direksi agar terhindar dari ancaman bertanggung jawab maka setiap keputusan harus memenuhi unsur-unsur, meliputi:
+        <ol>
+            <li>
+            Suatu Putusan harus dibuat. Jika, misalnya, Direksi lalai dengan tidak melakukan
             suatu penelitian yang dibutuhkan, atau melakukan kelalaian lainnya yang sifatnya
             sederhana, maka hal tersebut menjadikan Direksi tidak berhak mendapatkan
-            perlindungan berdasarkan doktrin Business Judgment Rule;
-            2. Direksi harus mendapatkan serta mengumpulkan semua informasi yang diperlukan
+            perlindungan berdasarkan doktrin <i>Business Judgment Rule</i>;
+            </li>
+            <li>
+            Direksi harus mendapatkan serta mengumpulkan semua informasi yang diperlukan
             dalam kaitannya dengan pengambilan keputusan yang dibutuhkan, guna
-            menguatkan keyakinannya yang wajar dan reasonable;
-            3. Keputusan harus dicapai dengan dilandasi itikad baik, yaitu suatu kondisi yang
+            menguatkan keyakinannya yang wajar dan <i>reasonable</i>;
+            </li>
+            <li>
+            Keputusan harus dicapai dengan dilandasi itikad baik, yaitu suatu kondisi yang
             akan tidak terpenuhi, jika misalnya, antara lain Direksi mengetahui bahwa
             keputusan yang akan diambilnya itu melanggar hukum;
-            4. Direksi tidak mempunyai kepentingan pribadi, termasuk kepentingan keuangan,
+            </li>
+            <li>
+            Direksi tidak mempunyai kepentingan pribadi, termasuk kepentingan keuangan,
             terkait dengan keputusan yang diambilnya.
-        Apabila Direksi sudah menjalankan sesuai uraian diatas maka Penerapan Business Judgment Rule sudah dapat melekat kepada Direksi tetapi apabila Direksi tidak menerapkan prinsip pengambilan keputusan maka Direksi dapat diminta pertanggungjawaban baik perdata maupun pidana.",
+            </li>
+        </ol>    
+        Apabila Direksi sudah menjalankan sesuai uraian diatas maka Penerapan <b>Business Judgment Rule</b> sudah dapat melekat kepada Direksi tetapi apabila Direksi tidak menerapkan prinsip pengambilan keputusan maka Direksi dapat diminta pertanggungjawaban baik perdata maupun pidana.",
         'content-4' =>
-        "PERTANGGUNGJAWABAN DIREKSI ATAS KEPUTUSAN",
+        "<b>PERTANGGUNGJAWABAN DIREKSI ATAS KEPUTUSAN</b>",
         'content-5' =>
         "Direksi dapat diartikan sebagai sebagai organ perseroan yang berwenang dan bertanggung jawab penuh atas pengurusan perseroan untuk kepentingan perseroan, sesuai maksud dan tujuan perseroaan itu didirikan serta mewakili perseroan, baik di dalam maupun di luar pengadilan sesuai ketentuan anggaran dasar.\
         Hal itu termasuk dalam perwakilan perseroan baik secara individu maupun bersama, masing-masing bertanggung jawab atas operasional dan pengambilan keputusan untuk perusahaan.
-        Keputusan yang diambil oleh Direksi sebagai pihak yang diberikan tanggung jawab di Rapat Umum Pemegang Saham (RUPS) wajib mematahi aturan-aturan hukum yang berlaku pada saat Direksi melakukan keputusan."
+        Keputusan yang diambil oleh Direksi sebagai pihak yang diberikan tanggung jawab di Rapat Umum Pemegang Saham (RUPS) wajib mematahi aturan-aturan hukum yang berlaku pada saat Direksi melakukan keputusan.",
         'content-6' =>
         "Penerapan pertanggungjawaban kepada Direksi dapat dilihat kepada Tugas dan kewenangan Direksi, keabsahan suatu perbuatan hukum sangatlah bergantung pada kewenangan yang diberikan. 
         Kewenangan seorang Direksi dapat digolongkan kedalam kewenangan yang berdasarkan pada:
-        1) Kapasitas diri sendiri sebagai individu pribadi;
-        2) Kapasitas sebagai pemegang kuasa yang bertindak untuk dan
-        1. atas nama pemberi kuasa;
-        3) Kapasitas untuk bertindak dalam jabatan yang dalam hal ini
-        2. bertindak selaku yang berwenang berdasarkan jabatan
-        3. tersebut"
+        <ol>
+            <li>Kapasitas diri sendiri sebagai individu pribadi;</li>
+            <li>Kapasitas sebagai pemegang kuasa yang bertindak untuk dan 1. atas nama pemberi kuasa;</li>
+            <li>Kapasitas untuk bertindak dalam jabatan yang dalam hal ini 2. bertindak selaku yang berwenang berdasarkan jabatan 3. tersebut</li>
+        </ol>",
         'content-7' =>
         "Didalam Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas sebenarnya tidak terdapat penggunaan Prinsip Business Judgment Rule Atas perlindungan terhadap Direksi.
         Akan tetapi, pengaturan konkritnya dapat ditemukan dalam beberapa pasal yaitu Pasal 69 ayat (4), Pasal 97 ayat (5), dan Pasal 104 ayat (4) UU PT No.40/2007.
-        Pada Pasal 97 ayat (5) menyatakan bahwa “Anggota Direksi tidak dapat dipertanggungjawabkan atas kerugian sebagaimana dimaksud pada ayat (3), apabila dapat membuktikan;
-        a) Kerugian tersebut bukan karena kesalahan atau kelalaiannya;
-        b) Telah melakukan pengurusan dengan itikad baik dan kehati-hatian;
-        c) Untuk kepentingan dan sesuai dengan maksud dan tujuan
-        d) perseroan;
-        e) Tidak mempunyai benturan kepentingan baik langsung maupun
-        f) tidak langsung atas tindakan pengurusan yang mengakibatkan
-        g) kerugian;
-        h) Telah mengambil tindakan untuk mencegah timbul atau
-        i) berlanjutnya kerugian tersebut."
+        Pada Pasal 97 ayat (5) menyatakan bahwa <b>“Anggota Direksi tidak dapat dipertanggungjawabkan atas kerugian sebagaimana dimaksud pada ayat (3), apabila dapat membuktikan;</b>
+        <ol style='list-style-type: lower-alpha;'>
+            <li>Kerugian tersebut bukan karena kesalahan atau kelalaiannya;</li>
+            <li>Telah melakukan pengurusan dengan itikad baik dan kehati-hatian;</li>
+            <li>Untuk kepentingan dan sesuai dengan maksud dan tujuan</li>
+            <li>perseroan;</li>
+            <li>Tidak mempunyai benturan kepentingan baik langsung maupun</li>
+            <li>tidak langsung atas tindakan pengurusan yang mengakibatkan</li>
+            <li>kerugian;</li>
+            <li>Telah mengambil tindakan untuk mencegah timbul atau</li>
+            <li>berlanjutnya kerugian tersebut.</li>
+        </ol>",
         'content-8' =>
         "Apabila Direksi keluar dari aturan di dalam Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas setiap Keputusan yang diambil, maka Direksi dapat diminta pertanggung jawaban, sehingga Direksi tidak dapat menghindar dari tuntutan pertanggungjawaban baik Pidana maupun Perdata.
         Selanjutnya telah digariskan pada Pasal 92 ayat (1) dan ayat (2) UU No. 40 Tahun 2007 Tentang Perseroan, Direksi wajib:
-        1. Menjalankan pengurusan untuk kepentingan Perseroan.
-        2. Menjalankan Maksud menjalankan pengurusan untuk kepentingan Perseroan;
-            a) Pengurusan Perseroan yang dilaksanakan anggota Direksi harus sesuai dengan maksud dan tujuan Perseroan yang ditetapkan dalam AD, dan
-            b) Pelaksanaan pengurusan, meliputi pengurusan sehari-hari.
-        Sehingga sanksi dalam bentuk pertanggungjawaban Direksi atas keputusan yang melanggar Prinsip Business Judgment Rule dapat diterapkan dari saksi Perdata maupun Pidana, diatur didalam Pasal 97 ayat (3) UU PT No. 40/2007 mengatur sebagai berikut:
-        (3) Setiap anggota Direksi bertanggung jawab penuh secara pribadi atas kerugian Perseroan apabila yang bersangkutan bersalah atau lalai menjalankan tugasnya sesuai dengan ketentuan sebagaimana dimaksud pada ayat (2).
-        Selanjutnya pada Pasal 155 UU PT No. 40/2007, mengatur:
-        Ketentuan mengenai tanggung jawab Direksi dan/atau Dewan Komisaris atas kesalahan dan kelalaiannya yang diatur dalam Undang-Undang ini tidak mengurangi ketentuan yang diatur dalam Undang-Undang tentang Hukum Pidana.
-        Atas ketentuan Pasal 155 tersebut maka Direksi dapat dituntut secara simultan pertanggungjawaban Perdata (Civil Liability) dan Pertanggungjawaban Korporasi (Corporate Liability), serta pertanggungjawaban Pidana (Crime Liability) atas Kesalahan (guilty) atau kelalaian (negligence) yang dilakukannya apabila ternyata atau kelalaian tersebut melanggar salah satu pasal ketentuan Pidana.
+        <ol>
+            <li>Menjalankan pengurusan untuk kepentingan Perseroan.</li>
+            <li>Menjalankan Maksud menjalankan pengurusan untuk kepentingan Perseroan;</li>
+                <ol style='list-style-type: lower-alpha;'>
+                    <li>Pengurusan Perseroan yang dilaksanakan anggota Direksi harus sesuai dengan maksud dan tujuan Perseroan yang ditetapkan dalam AD, dan</li>
+                    <li>Pelaksanaan pengurusan, meliputi pengurusan sehari-hari.</li>
+                </ol>
+                Sehingga sanksi dalam bentuk pertanggungjawaban Direksi atas keputusan yang melanggar <b>Prinsip Business Judgment Rule</b> dapat diterapkan dari saksi Perdata maupun Pidana, diatur didalam <b>Pasal 97 ayat (3) UU PT No. 40/2007</b> mengatur sebagai berikut:
+            <li>Setiap anggota Direksi <b><i>bertanggung jawab penuh secara pribadi</i></b> atas kerugian Perseroan apabila yang bersangkutan bersalah atau lalai menjalankan tugasnya sesuai dengan ketentuan sebagaimana dimaksud pada ayat (2).</li>
+        </ol>",
+        'content-9' => "Selanjutnya pada Pasal 155 <b>UU PT No. 40/2007, mengatur:</b>",
+        'content-10' => "Ketentuan mengenai tanggung jawab Direksi dan/atau Dewan Komisaris atas kesalahan dan kelalaiannya yang diatur dalam Undang-Undang ini tidak mengurangi ketentuan yang diatur dalam Undang-Undang tentang Hukum Pidana.",
+        'content-11' => 
+        "Atas ketentuan Pasal 155 tersebut maka Direksi dapat dituntut secara simultan pertanggungjawaban Perdata (<i>Civil Liability</i>) dan Pertanggungjawaban Korporasi (<i>Corporate Liability</i>), serta pertanggungjawaban Pidana (<i>Crime Liability</i>) atas Kesalahan (<i>guilty</i>) atau kelalaian (<i>negligence</i>) yang dilakukannya apabila ternyata atau kelalaian tersebut melanggar salah satu pasal ketentuan Pidana.
         Lebih lanjut pertanggungjawaban pidana terhadap Direksi yang melakukan tindak pidana merupakan isu penting dalam hukum pidana dan hukum perusahaan. Direksi sebagai organ utama perusahaan memiliki kewajiban untuk menjalankan pengelolaan perusahaan sesuai dengan hukum, anggaran dasar, dan prinsip-prinsip tata kelola perusahaan yang baik
-        (good corporate governance). Jika direksi melakukan tindak pidana, mereka dapat
-        dimintai pertanggungjawaban pidana secara individu atas tindakan tersebut."
-        'content-9' => "PENUTUP"
-        'content-10' =>
+        (good corporate governance). Jika direksi melakukan tindak pidana, mereka dapat dimintai pertanggungjawaban pidana secara individu atas tindakan tersebut.",
+        'content-12' => "<b>PENUTUP</b>",
+        'content-13' =>
         "Penerapan Business Judgment Rule dapat membuat Direksi kebal hukum ketika pihak eksternal dan internal mempertanyakan keputusan bisnis yang diambil, hal ini apabila Direksi bertanggung jawab dalam menjalankan melakukan tugas dan fungsinya sesuai peraturan perundang-undangan terkhusus Undang-undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas dan Anggaran Dasar Perseroan, serta dalam mengambil keputusan bisnis harus menerapkan prinsip-prinsip dan keputusan RUPS.
-        Direksi tidak dapat dibebankan Pertanggungjawaban secara pribadi atas kerugian sesuai penerapan Business Judgment Rule yang apabila dapat membuktikan bahwa kerugian tersebut terjadi bukan atas kesalahan atau kelalaiannya, dan Direksi bersangkutan telah melakukan pengurusan dengan itikad baik, penuh kehati-hatian dan tidak mempunyai benturan kepentingan baik langsung maupun tidak langsung atas kebijakan perseroan yang seharusnya bersesuai maksud dan tujuan perseroan."
-        'content-11' => "Referensi:"
-        'content-12' => "Undang-Undang Nomor 40 Tahun 2007 Tentang Perseroan Terbatas."
-        'content-13' => "Bismar Nasution, Makalah “Pertanggungjawaban Direksi dalam Pengelolaan Perseroan”, makalah Seminar Nasional dalam Rangka Menciptakan Good Corporate Governance pada Sistem Pengelolaan dan Pembinaan PT (Persero) BUMN “Optimalisasi Sistem Pengelolaan, Pengawasan, Pembinaan dan Pertanggungjawaban Keberadaan PT (Persero) di Lingkungan BUMN Ditinjau dari Aspek Hukum dan Transparansi”, diselenggarakan oleh Inti Sarana Informatika, Jakarta, 8/3/2007."
-        'content-14' => "Elia Fransisco SIlitonga, Jurnal Locus: Jurnal Konsep Ilmu Hukum E-ISSN :2809-9265 Volume 2, Nomor 2, June 2022 Penerapan Prinsip Business Judgment Rule Terhadap Pertanggungjawaban Perdata Direksi Perseroan (Analisis Putusan No.915 K/Pdt/2017 dan No.83/Pdt.G/2016/PN.Sby)."
+        Direksi tidak dapat dibebankan Pertanggungjawaban secara pribadi atas kerugian sesuai penerapan Business Judgment Rule yang apabila dapat membuktikan bahwa kerugian tersebut terjadi bukan atas kesalahan atau kelalaiannya, dan Direksi bersangkutan telah melakukan pengurusan dengan itikad baik, penuh kehati-hatian dan tidak mempunyai benturan kepentingan baik langsung maupun tidak langsung atas kebijakan perseroan yang seharusnya bersesuai maksud dan tujuan perseroan.",
+        'content-14' => "<b>Referensi:</b>",
+        'content-15' => "<b>Undang-Undang Nomor 40 Tahun 2007 Tentang Perseroan Terbatas.</b>",
+        'content-16' => "Bismar Nasution, Makalah “Pertanggungjawaban Direksi dalam Pengelolaan Perseroan”, makalah Seminar Nasional dalam Rangka Menciptakan Good Corporate Governance pada Sistem Pengelolaan dan Pembinaan PT (Persero) BUMN “Optimalisasi Sistem Pengelolaan, Pengawasan, Pembinaan dan Pertanggungjawaban Keberadaan PT (Persero) di Lingkungan BUMN Ditinjau dari Aspek Hukum dan Transparansi”, diselenggarakan oleh Inti Sarana Informatika, Jakarta, 8/3/2007.",
+        'content-17' => "Elia Fransisco SIlitonga, Jurnal Locus: Jurnal Konsep Ilmu Hukum E-ISSN :2809-9265 Volume 2, Nomor 2, June 2022 Penerapan Prinsip Business Judgment Rule Terhadap Pertanggungjawaban Perdata Direksi Perseroan (Analisis Putusan No.915 K/Pdt/2017 dan No.83/Pdt.G/2016/PN.Sby)."
     ],
     'blog_2' => [
         'title' => 'Understanding Corporate Law: Essential for Business Success',
